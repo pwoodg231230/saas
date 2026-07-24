@@ -1,0 +1,22 @@
+verification/
+
+├── engine/
+
+│   ├── queue.ts
+│   ├── processor.ts
+│   └── scoring.ts
+
+
+├── providers/
+
+│   ├── identity/
+
+│   ├── business/
+
+│   └── screening/
+
+
+└── reports/
+
+    ├── generator.ts
+    └── templates.ts
