@@ -1,0 +1,15 @@
+NODE_ENV=production
+
+
+DATABASE_URL=
+JWT_SECRET=
+JWT_REFRESH_SECRET=
+
+
+REDIS_URL=
+
+
+STRIPE_SECRET_KEY=
+
+
+NEXT_PUBLIC_API_URL=https://api.verifyos.com
