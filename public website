@@ -1,0 +1,13 @@
+apps/web
+
+├── marketing/
+│
+├── pricing/
+│
+├── features/
+│
+├── signup/
+│
+├── login/
+│
+└── dashboard/
