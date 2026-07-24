@@ -1,0 +1,18 @@
+git clone https://github.com/YOURNAME/verifyos-platform
+
+cd verifyos-platform
+
+
+cp .env.example .env
+
+
+pnpm install
+
+
+docker compose up -d
+
+
+pnpm db:migrate
+
+
+docker compose restart
