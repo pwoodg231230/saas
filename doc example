@@ -1,0 +1,12 @@
+POST /api/v1/verifications
+
+Authorization:
+Bearer API_KEY
+
+
+{
+"type":"identity",
+"subject":{
+"name":"John Doe"
+}
+}
