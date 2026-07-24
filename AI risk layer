@@ -1,0 +1,26 @@
+AI Engine
+
+Input:
+- Verification results
+- User supplied data
+- Provider responses
+
+↓
+
+Analysis
+
+↓
+
+Output:
+
+Risk Score:
+0-100
+
+Flags:
+- mismatch
+- unusual activity
+- missing information
+
+↓
+
+Human review queue
