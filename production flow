@@ -1,0 +1,20 @@
+Internet
+
+   ↓
+
+Cloudflare / Load Balancer
+
+   ↓
+
+Nginx
+
+   ↓
+
+----------------
+| Next.js      |
+| API Server   |
+----------------
+
+   ↓
+
+PostgreSQL + Redis
